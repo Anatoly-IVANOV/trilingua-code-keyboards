@@ -1,8 +1,10 @@
 **Trilingua Code Keyboards**
 
+A solution for the creative multilingual pro tired of switching between languages…
+
 # Description
 
-Trilingua Code Keyboards MacOS layouts are for those touch-typing in English, French and Russian — like myself — plus writing code daily, while insisting on typographic niceties and the JKL shortcuts of video editing software built for QWERTY (a long list of requirements!).
+Trilingua Code Keyboards MacOS layouts are for those touch-typing in English, French and Russian — like myself — plus writing code daily, while insisting on typographic niceties and the JKL shortcuts of audio/video editing software built for QWERTY (a long list of requirements!).
 
 I’ve created 2 keyboard layouts:
 
@@ -33,7 +35,7 @@ I’ve created 2 keyboard layouts:
 
 ## MacOS
 
-- download the release
+- download the keyboard bundles from the `Releases`
 - unzip into your `~/Library/Keyboard Layouts/` user Library or `/Library/Keyboard Layouts` if you want all users to have access to the keyboards
 
 ## All other OSes
@@ -43,11 +45,15 @@ I’ve created 2 keyboard layouts:
 
 # Special features
 
+- top rows optimized for easy to access to various brackets and dollar sign
+- “” «» typographer’s quotes for English and French in one place
 - — m-dash
 - – n-dash
-- → arrow frequently used
+- … typographical ellipsis
+- → arrow frequently used in design and documentation
 - degree symbol (yes, I do a lot of CAD @idelekka as well)
 - diameter symbol
+- Euro, Pound currency
 
 # Feedback and suggestions
 
