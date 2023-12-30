@@ -1,16 +1,19 @@
 **Trilingua Code Keyboards**
 
-A solution for the creative multilingual pro tired of switching between languages…
+A solution for the creative multilingual pro tired of switching between languages and special characters’ palettes…
 
 # Description
 
-Trilingua Code Keyboards MacOS layouts are for those touch-typing in English, French and Russian — like myself — plus writing code daily, while insisting on typographic niceties and the JKL shortcuts of audio/video editing software built for QWERTY (a long list of requirements!).
+Trilingua Code Keyboards MacOS layouts improves the work of those who touch-type in English, French and Russian — like myself — plus write code daily, while insisting on typographic niceties and the preservation of industry-standard `J K L` shortcuts of audio/video editing software timeline control built for QWERTY.
+
+> [!TIP]
+> No language switching via `⌃ ⌥ space` required — if you stay bilingual.
 
 I’ve created 2 keyboard layouts:
 
-- **EN+FR Trilingua Code**: combines the English QWERTY standards with French accented letters, specially optimized for coding. It includes an inverted number row for easy access to frequently used coding symbols and with a `Shift` and `Alt` integrates the French diacritics almost like on an AZERTY keyboard. *No keyboard switching required if you stay bilingual.*
+1. **EN+FR Trilingua Code**: combines the English QWERTY standards with French accented letters, specially optimized for coding. It includes an inverted number row for easy access to frequently used coding symbols and with a `Shift` and `Alt` integrates the French diacritics almost like on an AZERTY keyboard.
 
-- **RU Trilingua Code**: this layout mirrors the structure of EN+FR Trilingua Code, facilitating a fluid transition for those proficient in Russian as well. It still requires some work for a complete replica.
+2. **RU Trilingua Code**: this layout mirrors the structure of EN+FR Trilingua Code, facilitating a fluid transition for those proficient in Russian as well. It still requires some work for a complete replica.
 
 # Details of the layouts
 
