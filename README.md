@@ -57,7 +57,7 @@ I’ve created 2 keyboard layouts:
 - **°**  degree symbol (yes, I do a lot of CAD [@idelekka](https://idelekka.com) as well)
 - **≈**  approximate equality sign
 - **ø**  diameter symbol
-- **€**  Euro, £ Pound currency symbols
+- **€**  Euro, **£** Pound currency symbols
 
 # Modification
 
