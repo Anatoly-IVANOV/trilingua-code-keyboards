@@ -10,6 +10,20 @@ I’ve created 2 keyboard layouts:
 
 - **RU Trilingua Code**: this layout mirrors the structure of EN+FR Trilingua Code, facilitating a fluid transition for those proficient in Russian as well. It still requires some work for a complete replica.
 
+# Details of the layouts
+
+**No modifiers**
+<img src="keyboard_layouts_images/TrilinguaCode_EN+FR_modifiers_none_20231230.png" width="100%">
+
+**Shift modifier**
+<img src="keyboard_layouts_images/TrilinguaCode_EN+FR_modifiers_shift_20231230.png" width="100%">
+
+**Alt modifier**
+<img src="keyboard_layouts_images/TrilinguaCode_EN+FR_modifiers_alt_20231230.png" width="100%">
+
+**Alt Shift modifier**
+<img src="keyboard_layouts_images/TrilinguaCode_EN+FR_modifiers_shift+alt_20231230.png" width="100%">
+
 # Project Goals
 
 - **Multilingual Coding Efficiency**: Aimed at bridging the gap between English, French, and Russian in coding environments, these layouts simplify the language switching process for touch-typing programmer-designer-filmmakers who want to preserve the access to familiar shortcuts.
