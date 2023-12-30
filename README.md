@@ -51,10 +51,20 @@ I’ve created 2 keyboard layouts:
 - – n-dash
 - … typographical ellipsis
 - → arrow frequently used in design and documentation
-- degree symbol (yes, I do a lot of CAD @idelekka as well)
+- degree symbol (yes, I do a lot of CAD [@idelekka](https://idelekka.com) as well)
+- ≈ approximate equality sign
 - diameter symbol
 - Euro, Pound currency
+
+# Modification
+
+Feel GPL-free to modify to suit your language (my German is decaying, hence the lack of its support, but you get the umlaut idea).
 
 # Feedback and suggestions
 
 I’m continuously improving and evolving the keyboard layouts and welcome any feedback and contributions.
+
+# To-do
+
+- complete the mirror of the EN+FR to RU
+- remove several redundancies — I was testing different placements
