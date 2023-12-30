@@ -37,6 +37,9 @@ I’ve created 2 keyboard layouts:
 
 - download the keyboard bundles from the `Releases`
 - unzip into your `~/Library/Keyboard Layouts/` user Library or `/Library/Keyboard Layouts` if you want all users to have access to the keyboards
+- go to `System Preferences > Keyboard > Input Sources` or some harder-to-find-with-each-MacOS-release location to enable the keyboards
+- most probably, you will have to log-out… gone are the easy days of MacOS 10.0
+- I then tend to disable the built-in stock English and French layouts
 
 ## All other OSes
 
