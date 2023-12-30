@@ -33,6 +33,7 @@ I’ve created 2 keyboard layouts:
 
 - **Multilingual Coding Efficiency**: Aimed at bridging the gap between English, French, and Russian in coding environments, these layouts simplify the language switching process for touch-typing programmer-designer-filmmakers who want to preserve the access to familiar shortcuts.
 - **User-Centric Design**: The layouts are crafted to be intuitive for both bilingual and trilingual users, minimizing the learning curve and maximizing typing proficiency.
+- **Compatible with built-in MacBooks’ keyboards**: Yes, the latest split ergo marvels layered with [ZMK](https://github.com/zmkfirmware/zmk) are superb, but not always available.
 
 # Installation
 
