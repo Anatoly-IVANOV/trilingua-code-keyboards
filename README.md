@@ -45,16 +45,16 @@ I’ve created 2 keyboard layouts:
 
 # Special features
 
-- top rows optimized for easy to access to various brackets and dollar sign
-- “” «» typographer’s quotes for English and French in one place
-- — m-dash
-- – n-dash
-- … typographical ellipsis
-- → arrow frequently used in design and documentation
-- degree symbol (yes, I do a lot of CAD [@idelekka](https://idelekka.com) as well)
-- ≈ approximate equality sign
-- diameter symbol
-- Euro, Pound currency
+- top rows optimized for direct access to various brackets **( )**, **[ ]** and **$** dollar sign used in programming
+- **“” «»**  typographer’s quotes for English and French in one place
+- **—**  m-dash
+- **–**  n-dash
+- **…**  typographical ellipsis
+- **→**  arrow frequently used in design and documentation
+- **°**  degree symbol (yes, I do a lot of CAD [@idelekka](https://idelekka.com) as well)
+- **≈**  approximate equality sign
+- **ø**  diameter symbol
+- **€**  Euro, £ Pound currency symbols
 
 # Modification
 
