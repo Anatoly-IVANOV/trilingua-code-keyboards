@@ -86,7 +86,7 @@ To remove the no longer needed layouts:
 
 6. Restart.
 
-   > [!WARNING]
+   > [!IMPORTANT]
    > Logging out and back in is not enough.
 
 # Modification
