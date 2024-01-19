@@ -4,7 +4,7 @@ A solution for the creative multilingual pro tired of switching between language
 
 # Description
 
-Trilingua Code Keyboards MacOS layouts improves the work of those who touch-type in English, French and Russian — like myself — plus write code daily, while insisting on typographic niceties and the preservation of industry-standard `J K L` shortcuts of audio/video editing software timeline control built for QWERTY.
+*Trilingua Code Keyboards* layouts improve the work of those who touch-type in English, French and Russian — like myself — plus write code daily, while insisting on typographic niceties and the preservation of industry-standard `J K L` shortcuts of audio/video editing software timeline control built for QWERTY.
 
 > [!TIP]
 > No language switching via `⌃ ⌥ space` required — if you stay bilingual.
@@ -13,7 +13,10 @@ I’ve created 2 keyboard layouts:
 
 1. **EN+FR Trilingua Code**: combines the English QWERTY standards with French accented letters, specially optimized for coding. It includes an inverted number row for easy access to frequently used coding symbols and with a `Shift` and `Alt` integrates the French diacritics almost like on an AZERTY keyboard.
 
-2. **RU Trilingua Code**: this layout mirrors the structure of EN+FR Trilingua Code, facilitating a fluid transition for those proficient in Russian as well. It still requires some work for a complete replica.
+2. **RU Trilingua Code**: this layout mirrors the structure of *EN+FR Trilingua Code*, facilitating a fluid transition for those proficient in Russian as well. It still requires some work for a complete replica.
+
+> [!NOTE]
+> Those are for MacOS, but you can find inspiration for your OS of choice.
 
 # Details of the layouts
 
@@ -62,6 +65,29 @@ I’ve created 2 keyboard layouts:
 - **≈**  approximate equality sign
 - **ø**  diameter symbol
 - **€**  Euro, **£** Pound currency symbols
+
+# Uninstall default keyboards
+
+## MacOS
+
+MacOS insists on keeping at least 1 Latin keyboard they ship. So when you cycle through the layouts — I’m using `⌘ Space` — you’ll get English twice.
+
+To remove the no longer needed layouts:
+
+1. Change the current input source to the *Trilingua Code* custom keyboard layout.
+
+2. Open `~/Library/Preferences/com.apple.HIToolbox.plist` (if needed, convert the binary `.plist` to `XML` with `plutil -convert xml1`).
+
+3. Remove the input source or input sources you want to disable from the `AppleEnabledInputSources` dictionary.
+
+4. If there is an `AppleDefaultAsciiInputSource` key, remove it.
+
+5. Save the new version of `~/Library/Preferences/com.apple.HIToolbox.plist`.
+
+6. Restart.
+
+   > [!WARNING]
+   > Logging out and back in is not enough.
 
 # Modification
 
